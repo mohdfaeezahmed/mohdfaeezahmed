@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mohdfaeezahmed
 - 👀 I’m interested in Webdev & AppDev
-- 📫 How to reach me? -> mohdfaeezahmed@gmail.com
+- 📫 How to reach me? -> mohdfaeezahmed@gmail.com | Instagram @faeezahmed1
 - ⚡ Fun fact: we all started by hello-ing the world!
